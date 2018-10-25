@@ -1,4 +1,4 @@
-![wsu cyber](pirate.jpeg)
+![wsu cyber](pirate.jpeg=250x250)
 
 # WSU ESIC ELK+Beats Setup Spec
 
